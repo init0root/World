@@ -8,3 +8,17 @@
   questões de física, mas logo logo teremos atualizações. Aguardem!
   
   
+<h2>Instalação no Windows </h2>
+Descompacte o arquivo zipado e execute o programa.
+
+<h2> Instalação no Linux </h2>
+
+Certifique-se de ter as seguintes bibliotecas instaladas (Pip3):
+Pillow
+Tkinter
+docx
+
+Execute o World.py
+
+  
+  
