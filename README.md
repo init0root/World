@@ -1,5 +1,7 @@
 # World
 
+![alt text](http://www.mediafire.com/view/0wd2p3cly7726a0/de.png/file)
+
 
 <h1> WORLD - SCHOOL TEST GENERATOR </h1>
   
@@ -16,7 +18,7 @@ Descompacte o arquivo zipado e execute o programa.
 Certifique-se de ter as seguintes bibliotecas instaladas (Pip3):
 Pillow,
 Tkinter,
-docx,
+docx.
 
 Execute o World.py
 
