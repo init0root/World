@@ -22,7 +22,7 @@ docx.
 
 Execute o World.py
 
-<h1> Pessoas que contrinuiram para o projeto </h1>
+<h1> Pessoas que contrinuiram com o projeto </h1>
 Letícia de Jesus Teles
 
   
